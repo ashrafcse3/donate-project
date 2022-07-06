@@ -99,3 +99,24 @@ h2 {
     padding: 40px 20px;
     background-color: #FFF4D6;
 }
+
+/* Footer section */
+footer {
+    background-color: black;
+    height: 150px;
+}
+
+footer h4 {
+    color: #FF5959;
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+footer p {
+    color: #D9DBE1;
+    text-align: center;
+    margin-top: -20px;
+    font-size: 12px;
+}
