@@ -205,6 +205,29 @@ h2 {
     border-top-right-radius: 5px;
 }
 
+/* Bonus section */
+.bonus-section {
+    color: #707070;
+}
+
+.bonus-section hr {
+    background-color: #e9e2e2;
+    height: 1px;
+    border: none;
+}
+
+#bonus-section-left {
+    text-align: center;
+    padding: 40px 200px;
+    width: 50%;
+}
+
+#bonus-section-right {
+    text-align: center;
+    padding: 40px 200px;
+    width: 50%;
+}
+
 /* Footer section */
 footer {
     background-color: black;
